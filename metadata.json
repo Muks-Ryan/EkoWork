@@ -1,0 +1,6 @@
+{
+  "name": "EkoWork LMS",
+  "description": "Multi-institutional Learning Management System supporting student learning, lecturer grading workflows, and institutional academic governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
